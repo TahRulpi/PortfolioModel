@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: b1f664e60c232ee46a03101de0e038a7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_086086086
+    second: {fileID: 2100000, guid: d0c7e11d741b72b4dba0f96352fba6fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_088144225
+    second: {fileID: 2100000, guid: c8e27ca222cae1847a6e92e03f30aa74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_204204204
+    second: {fileID: 2100000, guid: 34c6dde4507716b43bf0f0a6cd0fe849, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_0
+    second: {fileID: 2800000, guid: e309c3bd54c4c9749a420c940d6bb8b1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_1
+    second: {fileID: 2800000, guid: 396ea12a1444abc42a222236dab14ffc, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_2.standard
+    second: {fileID: 2800000, guid: f104d2441bbd61a4cb04cb9a0531ec10, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
